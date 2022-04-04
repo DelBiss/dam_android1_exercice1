@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">Philippe Allard-Rousse</string>
-    <string name="msg">Yo Man</string>
-    <string name="btn_msg">Un bouton</string>
+    <string name="app_name">Exercice 2</string>
+    <string name="form_month_label">Mois :</string>
+    <string name="form_month_hint">Mois</string>
+    <string name="form_month_choise_1">Numéro (entre 1 et 12)</string>
+    <string name="form_month_choise_2">Lettre (ex: mars)</string>
+    <string name="form_year_label">Année :</string>
+    <string name="form_year_hint">Année</string>
+    <string name="btn_msg">Trouver</string>
+    <string name="result_lbl">Nombre de jour :</string>
+    <string name="result_placeholder">Au prochain cours...</string>
 </resources>
