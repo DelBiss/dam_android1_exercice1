@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Philippe Allard-Rousse</string>
+    <string name="msg">Yo Man</string>
+    <string name="btn_msg">Un bouton</string>
+</resources>
