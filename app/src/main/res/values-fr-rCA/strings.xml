@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Exercice 2</string>
     <string name="form_month_label">Mois</string>
@@ -9,5 +10,4 @@
     <string name="btn_msg">Trouver</string>
     <string name="result_lbl">Nombre de jours</string>
     <string name="result_placeholder">Au prochain cours...</string>
-    <string name="label_format" translatable="false">"%s : "</string>
 </resources>
