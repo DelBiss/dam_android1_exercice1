@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/philr/Documents/Ecole/Multi/test/HappyBirtday/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/philr/Documents/Ecole/Multi/test/HappyBirtday/app/src/main/res/layout-port/main_portrait.xml" value="0.1" />
+        <entry key="..\:/Users/philr/Documents/Ecole/Multi/test/HappyBirtday/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>

@@ -23,7 +23,8 @@
             android:id="@+id/month_input"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/form_year_hint" />
+            android:hint="@string/form_month_hint"
+            android:inputType="text" />
 
             <RadioGroup
                 android:layout_width="wrap_content"
@@ -33,7 +34,7 @@
                     android:id="@+id/option_month_number"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/form_month_choise_1"
+                    android:text="@string/form_month_choice_1"
                     android:checked="true"
                     />
 
@@ -41,7 +42,7 @@
                     android:id="@+id/option_month_text"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/form_month_choise_2"/>
+                    android:text="@string/form_month_choice_2"/>
             </RadioGroup>
     <TextView
         android:layout_width="wrap_content"
@@ -51,8 +52,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/form_year_hint"
-             />
+            android:inputType="number" />
         <Button
+            android:onClick="findDays"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/btn_msg"/>
@@ -65,6 +67,7 @@
                 android:layout_height="wrap_content"
                 android:text="@string/result_lbl"/>
             <TextView
+                android:id="@+id/day_output"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/result_placeholder"/>

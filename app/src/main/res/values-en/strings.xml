@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercice 2</string>
+    <string name="form_month_label">Month :</string>
+    <string name="form_month_hint">Month</string>
+    <string name="form_month_choice_1">Number (between 1 and 12)</string>
+    <string name="form_month_choice_2">Letter (ex: mars)</string>
+    <string name="form_year_label">Year :</string>
+    <string name="form_year_hint">Year</string>
+    <string name="btn_msg">Find</string>
+    <string name="result_lbl">Days:</string>
+    <string name="result_placeholder">TODO</string>
+</resources>
